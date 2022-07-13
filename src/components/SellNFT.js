@@ -84,8 +84,7 @@ export default function SellNFT () {
             alert( "Upload error"+e )
         }
     }
-
-    console.log("Working", process.env);
+    
     return (
         <div className="">
         <Navbar></Navbar>
